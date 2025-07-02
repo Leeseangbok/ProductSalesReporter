@@ -4,7 +4,7 @@ This is a C# WinForms application built for a developer coding test. The applica
 
 ## Application Preview
 
-![Application Preview](../Image/application.png)
+![Application Preview](Image/application.png)
 
 The application presents a simple and intuitive user interface. The main window contains:
 - **Date Pickers**: For selecting the start and end dates of the reporting period.
