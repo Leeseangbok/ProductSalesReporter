@@ -4,6 +4,8 @@ This is a C# WinForms application built for a developer coding test. The applica
 
 ## Application Preview
 
+![Application Preview](../Image/application.png)
+
 The application presents a simple and intuitive user interface. The main window contains:
 - **Date Pickers**: For selecting the start and end dates of the reporting period.
 - **Product Name Filter**: A text box for optional filtering by product name.
@@ -120,3 +122,4 @@ Open the `DataAccess.cs` file and modify the `connectionString` variable:
 1.  Open the `.sln` file in Visual Studio.
 2.  Rebuild the solution to restore all NuGet packages.
 3.  Press **F5** or click the **Start** button to run the application.
+
