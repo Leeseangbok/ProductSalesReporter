@@ -6,6 +6,10 @@ This is a C# WinForms application built for a developer coding test. The applica
 
 ![Application Preview](Image/application.png)
 
+## Report Preview
+
+![Report Preview](Image/report.png)
+
 The application presents a simple and intuitive user interface. The main window contains:
 - **Date Pickers**: For selecting the start and end dates of the reporting period.
 - **Product Name Filter**: A text box for optional filtering by product name.
